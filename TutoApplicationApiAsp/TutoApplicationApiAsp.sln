@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutoApplicationApiAsp", "TutoApplicationApiAsp\TutoApplicationApiAsp.csproj", "{F1B1373A-4180-41A4-9A12-92F53ACFFA52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B1373A-4180-41A4-9A12-92F53ACFFA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B1373A-4180-41A4-9A12-92F53ACFFA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B1373A-4180-41A4-9A12-92F53ACFFA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B1373A-4180-41A4-9A12-92F53ACFFA52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4EDB78B-B90B-4860-ABE6-0937C367024D}
+	EndGlobalSection
+EndGlobal
